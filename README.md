@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=0:f3eae8,80:1f9587&height=100&section=header&text=sooYeong&fontSize=40&fontColor=282829)
+# sooYeong
 
 ### 👩🏻‍💻 STACKS
 
