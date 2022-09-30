@@ -7,7 +7,7 @@
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=FFFFFF"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=FFFFFF"/>
 
-// <img src="https://img.shields.io/badge/제목-색상코드?style=flat-square&logo=제목&logoColor=배경색"/>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ssovogg&show_icons=true&theme=radical)
 
 </div>
 <!--
